@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album artist="falcom" samplerate="44100" bits="16" channels="2" codec="PCM_wav" encoding="lossless" pack="">零之轨迹</album>
+	<albumartist>falcom</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="ed7001.wav" artist="ed7001" pos="0,1431552,4017497">零の軌跡</bgm>
+		<bgm file="ed7002.wav" artist="ed7002" pos="0,0,5159680">way of life -Opening Version-</bgm>
+		<bgm file="ed7003.wav" artist="ed7003" pos="0,0,14288402">新しき日々～予兆</bgm>
+		<bgm file="ed7005.wav" artist="ed7005" pos="0,3122423,3146914">想い破れて…</bgm>
+		<bgm file="ed7100.wav" artist="ed7100" pos="0,875712,5121608">街角の風景</bgm>
+		<bgm file="ed7101.wav" artist="ed7101" pos="0,880640,3718656">明日は明日の風が吹く</bgm>
+		<bgm file="ed7102.wav" artist="ed7102" pos="0,112838,5827154">クロスベルの午後</bgm>
+		<bgm file="ed7103.wav" artist="ed7103" pos="0,660096,4872832">During Mission Accomplishment</bgm>
+		<bgm file="ed7104.wav" artist="ed7104" pos="0,472704,7093296">创立記念祭</bgm>
+		<bgm file="ed7105.wav" artist="ed7105" pos="0,1275324,5197584">降水確率10%</bgm>
+		<bgm file="ed7106.wav" artist="ed7106" pos="0,156926,5517194">風船と紙吹雪</bgm>
+		<bgm file="ed7110.wav" artist="ed7110" pos="0,483520,4342176">特務支援課</bgm>
+		<bgm file="ed7111.wav" artist="ed7111" pos="0,1324416,4567808">C.S.P.D -クロスベル警察-</bgm>
+		<bgm file="ed7113.wav" artist="ed7113" pos="0,1288498,3780079">Arc-en-ciel</bgm>
+		<bgm file="ed7114.wav" artist="ed7114" pos="0,1923660,4469888">黒月貿易公司</bgm>
+		<bgm file="ed7116.wav" artist="ed7116" pos="0,194688,4601752">IGNIS</bgm>
+		<bgm file="ed7117.wav" artist="ed7117" pos="0,117652,2551516">TRINITY</bgm>
+		<bgm file="ed7120.wav" artist="ed7120" pos="0,324352,4400480">アルモリカ村</bgm>
+		<bgm file="ed7121.wav" artist="ed7121" pos="0,305376,5028640">鉱山町マインツ</bgm>
+		<bgm file="ed7122.wav" artist="ed7122" pos="0,587042,4704100">Killing Bear</bgm>
+		<bgm file="ed7123.wav" artist="ed7123" pos="0,271220,6508915">聖ウルスラ醫科大学</bgm>
+		<bgm file="ed7124.wav" artist="ed7124" pos="0,422110,3823924">クロスベル大聖堂</bgm>
+		<bgm file="ed7125.wav" artist="ed7125" pos="0,953216,5001216">黑の競売會</bgm>
+		<bgm file="ed7126.wav" artist="ed7126" pos="0,247396,4503804">大国に挟まれて</bgm>
+		<bgm file="ed7200.wav" artist="ed7200" pos="0,111941,6009354">水と草木と青い空</bgm>
+		<bgm file="ed7201.wav" artist="ed7201" pos="0,208760,6034753">片手にはレモネード</bgm>
+		<bgm file="ed7202.wav" artist="ed7202" pos="0,214528,7119872">木霊の道</bgm>
+		<bgm file="ed7203.wav" artist="ed7203" pos="0,126967,7754781">古の鼓動</bgm>
+		<bgm file="ed7204.wav" artist="ed7204" pos="0,408448,5253328">On The Green Road</bgm>
+		<bgm file="ed7205.wav" artist="ed7205" pos="0,129552,4904960">鉄橋を越えて</bgm>
+		<bgm file="ed7300.wav" artist="ed7300" pos="0,710220,6281600">ジオフロント</bgm>
+		<bgm file="ed7301.wav" artist="ed7301" pos="0,1627943,5833954">七耀の煌き</bgm>
+		<bgm file="ed7302.wav" artist="ed7302" pos="0,499457,6219453">ルバーチェ商會</bgm>
+		<bgm file="ed7303.wav" artist="ed7303" pos="0,514120,6976440">鳴るはずのない鐘</bgm>
+		<bgm file="ed7304.wav" artist="ed7304" pos="0,869340,8361040">忘れられし幻夢の狹間</bgm>
+		<bgm file="ed7305.wav" artist="ed7305" pos="0,938240,4535680">A Light Illuminating The Depths</bgm>
+		<bgm file="ed7400.wav" artist="ed7400" pos="0,1305596,3720439">Get Over The Barrier!</bgm>
+		<bgm file="ed7401.wav" artist="ed7401" pos="0,166713,5183999">Arrest The Criminal</bgm>
+		<bgm file="ed7402.wav" artist="ed7402" pos="0,509952,4828464">Formidable Enemy</bgm>
+		<bgm file="ed7403.wav" artist="ed7403" pos="0,823023,3775914">Stand Up Battle Formation Again!</bgm>
+		<bgm file="ed7404.wav" artist="ed7404" pos="0,1260800,5182208">Inevitable Struggle</bgm>
+		<bgm file="ed7405.wav" artist="ed7405" pos="0,690583,6048113">Demonic Drive</bgm>
+		<bgm file="ed7406.wav" artist="ed7406" pos="0,2527744,9818112">Arrival Existence</bgm>
+		<bgm file="ed7408.wav" artist="ed7408" pos="0,633440,1483394">これが俺たちの力だ！</bgm>
+		<bgm file="ed7500.wav" artist="ed7500" pos="0,1191220,2818392">陽の熱情</bgm>
+		<bgm file="ed7501.wav" artist="ed7501" pos="0,787903,3777522">月の慕情</bgm>
+		<bgm file="ed7502.wav" artist="ed7502" pos="0,103064,4171548">童心</bgm>
+		<bgm file="ed7503.wav" artist="ed7503" pos="0,1447872,3472768">運命の刻</bgm>
+		<bgm file="ed7504.wav" artist="ed7504" pos="0,849120,2067168">譲れぬ想い</bgm>
+		<bgm file="ed7505.wav" artist="ed7505" pos="0,1007616,2099984">幾千の夜を越えて</bgm>
+		<bgm file="ed7506.wav" artist="ed7506" pos="0,1934672,1435276">夜明け～大団円</bgm>
+		<bgm file="ed7507.wav" artist="ed7507" pos="0,207568,5632128">Intense Chase</bgm>
+		<bgm file="ed7509.wav" artist="ed7509" pos="0,1416042,4569270">守りぬく意志</bgm>
+		<bgm file="ed7510.wav" artist="ed7510" pos="0,242657,5909445">睿智への誘い</bgm>
+		<bgm file="ed7511.wav" artist="ed7511" pos="0,196352,4233728">危地</bgm>
+		<bgm file="ed7512.wav" artist="ed7512" pos="0,655104,4432640">揺るぎない強さ</bgm>
+		<bgm file="ed7513.wav" artist="ed7513" pos="0,363962,4522983">夜景に霞む星空</bgm>
+		<bgm file="ed7514.wav" artist="ed7514" pos="0,594470,5830739">いつかきっと</bgm>
+		<bgm file="ed7515.wav" artist="ed7515" pos="0,255616,4794660">柔らかな心</bgm>
+		<bgm file="ed7516.wav" artist="ed7516" pos="0,669768,3828248">點と線</bgm>
+		<bgm file="ed7517.wav" artist="ed7517" pos="0,194688,4601752">一触即発</bgm>
+		<bgm file="ed7518.wav" artist="ed7518" pos="0,437152,3735560">Foolish Gig</bgm>
+		<bgm file="ed7519.wav" artist="ed7519" pos="0,234440,2990076">リベールからの風</bgm>
+		<bgm file="ed7520.wav" artist="ed7520" pos="0,157626,8109182">とどいた想い</bgm>
+		<bgm file="ed7521.wav" artist="ed7521" pos="0,380160,3588352">Underground Kids</bgm>
+		<bgm file="ed7522.wav" artist="ed7522" pos="0,380160,3588352">Terminal Room</bgm>
+		<bgm file="ed7523.wav" artist="ed7523" pos="0,255528,4870584">響きあう心</bgm>
+		<bgm file="ed7524.wav" artist="ed7524" pos="0,586567,3598560">Limit Break</bgm>
+		<bgm file="ed7525.wav" artist="ed7525" pos="0,1609728,55296">パラダイスミ☆</bgm>
+		<bgm file="ed7526.wav" artist="ed7526" pos="0,610304,4704256">Gnosis</bgm>
+		<bgm file="ed7527.wav" artist="ed7527" pos="0,600164,9621820">Get Over The Barrier! -Roaring Version-</bgm>
+		<bgm file="ed7528.wav" artist="ed7528" pos="0,1282304,5039872">それぞれの明日</bgm>
+		<bgm file="ed7529.wav" artist="ed7529" pos="0,387648,2818320">未知标题（警戒舞台时向内窥探的BGM1）</bgm>
+		<bgm file="ed7530.wav" artist="ed7530" pos="0,187376,3472768">未知标题（警戒舞台时向内窥探的BGM2）</bgm>
+		<bgm file="ed7531.wav" artist="ed7531" pos="0,105472,3472896">未知标题（警戒舞台时向内窥探的BGM3）</bgm>
+		<bgm file="ed7532.wav" artist="ed7532" pos="0,175440,1435276">未知标题（警戒舞台时向内窥探的BGM4）</bgm>
+		<bgm file="ed7533.wav" artist="ed7533" pos="0,1557760,4536064">踏み出す勇気</bgm>
+		<bgm file="ed7534.wav" artist="ed7534" pos="0,995762,4014620">その背中を見つめて</bgm>
+	</bgmlist>
+</thxml>

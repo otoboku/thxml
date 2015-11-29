@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album artist="falcom" samplerate="44100" bits="16" channels="2" codec="Vorbis_ogg" encoding="lossy" pack="">空之轨迹FC</album>
+	<albumartist>falcom</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="ED6001.ogg" artist="ED6001" pos="0,562871,3140411">风を共に舞う気持ち</bgm>
+		<bgm file="ED6100.ogg" artist="ED6100" pos="0,21825,6145560">地方都市ロレント</bgm>
+		<bgm file="ED6101.ogg" artist="ED6101" pos="0,125210,4358193">商业都市ボース</bgm>
+		<bgm file="ED6102.ogg" artist="ED6102" pos="0,256040,4779868">海港都市ルーアン</bgm>
+		<bgm file="ED6103.ogg" artist="ED6103" pos="0,585462,5629787">工房都市ツァイス</bgm>
+		<bgm file="ED6104.ogg" artist="ED6104" pos="0,445158,7620480">王都グランセル</bgm>
+		<bgm file="ED6105.ogg" artist="ED6105" pos="0,177760,6549752">阳だまりにて和む猫</bgm>
+		<bgm file="ED6106.ogg" artist="ED6106" pos="0,139860,5000310">国境警备も楽じゃない</bgm>
+		<bgm file="ED6107.ogg" artist="ED6107" pos="0,209832,5312397">王城</bgm>
+		<bgm file="ED6108.ogg" artist="ED6108" pos="0,573440,3933876">グランアリーナ</bgm>
+		<bgm file="ED6200.ogg" artist="ED6200" pos="0,103934,6513551">リベールの歩き方</bgm>
+		<bgm file="ED6201.ogg" artist="ED6201" pos="0,131072,2610720">Secret Green Passage</bgm>
+		<bgm file="ED6202.ogg" artist="ED6202" pos="0,626688,2466175">Rock on the Road</bgm>
+		<bgm file="ED6300.ogg" artist="ED6300" pos="0,197561,4736550">暗を彷徨う</bgm>
+		<bgm file="ED6301.ogg" artist="ED6301" pos="0,548864,3722338">行く手をはばむ钢の床</bgm>
+		<bgm file="ED6302.ogg" artist="ED6302" pos="0,101928,4524660">暗がりがくれた安らぎ</bgm>
+		<bgm file="ED6303.ogg" artist="ED6303" pos="0,107797,4803065">四轮の塔</bgm>
+		<bgm file="ED6304.ogg" artist="ED6304" pos="0,262144,5699077">レイストン要塞</bgm>
+		<bgm file="ED6305.ogg" artist="ED6305" pos="0,505412,12110652">虚ろなる光の封土</bgm>
+		<bgm file="ED6400.ogg" artist="ED6400" pos="0,172199,5629787">Sophisticated Fight</bgm>
+		<bgm file="ED6402.ogg" artist="ED6402" pos="0,389298,4557007">To be Suggestive</bgm>
+		<bgm file="ED6403.ogg" artist="ED6403" pos="0,391604,4884924">银の意志</bgm>
+		<bgm file="ED6404.ogg" artist="ED6404" pos="0,299275,4417670">Challenger Invited</bgm>
+		<bgm file="ED6405.ogg" artist="ED6405" pos="0,324096,5412960">Ancient Makes</bgm>
+		<bgm file="ED6406.ogg" artist="ED6406" pos="0,947015,4536452">至宝を守护せしモノ</bgm>
+		<bgm file="ED6407.ogg" artist="ED6407" pos="0,308235,1644815">撃破！！</bgm>
+		<bgm file="ED6408.ogg" artist="ED6408" pos="0,393216,3799004">消え行く星</bgm>
+		<bgm file="ED6410.ogg" artist="ED6410" pos="0,835516,4091456">ピンチ！！</bgm>
+		<bgm file="ED6500.ogg" artist="ED6500" pos="0,0,1411200">星の在り処 Harmonica short Ver.</bgm>
+		<bgm file="ED6501.ogg" artist="ED6501" pos="0,0,3044584">琥珀の爱 Hum Ver.</bgm>
+		<bgm file="ED6502.ogg" artist="ED6502" pos="0,0,2362368">琥珀の爱 Piano Ver.</bgm>
+		<bgm file="ED6503.ogg" artist="ED6503" pos="0,20987,3000017">琥珀の爱 Lute Ver.</bgm>
+		<bgm file="ED6504.ogg" artist="ED6504" pos="0,509184,3855360">星の在り処 Harmonica long Ver.</bgm>
+		<bgm file="ED6505.ogg" artist="ED6505" pos="0,859198,5137866">赈やかに行こう</bgm>
+		<bgm file="ED6510.ogg" artist="ED6510" pos="0,176287,2787839">去り行く决意</bgm>
+		<bgm file="ED6511.ogg" artist="ED6511" pos="0,306671,4536712">暗跃する者たち</bgm>
+		<bgm file="ED6512.ogg" artist="ED6512" pos="0,275592,3739288">奴を逃がすな！</bgm>
+		<bgm file="ED6513.ogg" artist="ED6513" pos="0,1179648,3254045">胸の中に</bgm>
+		<bgm file="ED6514.ogg" artist="ED6514" pos="0,554988,4249189">月明りの下で</bgm>
+		<bgm file="ED6516.ogg" artist="ED6516" pos="0,240097,3928078">忍び寄る危机</bgm>
+		<bgm file="ED6517.ogg" artist="ED6517" pos="0,344064,3990689">俺达カプア一家！</bgm>
+		<bgm file="ED6518.ogg" artist="ED6518" pos="0,136808,3992196">旅立ちの小径</bgm>
+		<bgm file="ED6519.ogg" artist="ED6519" pos="0,153494,5773171">夺还</bgm>
+		<bgm file="ED6520.ogg" artist="ED6520" pos="0,489216,6926592">呪缚からの解放、そして...</bgm>
+		<bgm file="ED6521.ogg" artist="ED6521" pos="0,22082,4859488">告白</bgm>
+		<bgm file="ED6522.ogg" artist="ED6522" pos="0,21760,2121984">黒のオーブメント</bgm>
+		<bgm file="ED6523.ogg" artist="ED6523" pos="0,571392,3036672">リベールの夸り</bgm>
+		<bgm file="ED6530.ogg" artist="ED6530" pos="0,22386,2116750">姫の悩み</bgm>
+		<bgm file="ED6531.ogg" artist="ED6531" pos="0,21840,1852305">骑士达の叹き</bgm>
+		<bgm file="ED6532.ogg" artist="ED6532" pos="0,22400,2647256">それぞれの思惑</bgm>
+		<bgm file="ED6533.ogg" artist="ED6533" pos="0,22144,1476608">城</bgm>
+		<bgm file="ED6534.ogg" artist="ED6534" pos="0,50592,1881504">コロシアム</bgm>
+		<bgm file="ED6535.ogg" artist="ED6535" pos="0,239360,2102272">决闘</bgm>
+		<bgm file="ED6536.ogg" artist="ED6536" pos="0,877725,3548160">姫の死</bgm>
+		<bgm file="ED6537.ogg" artist="ED6537" pos="0,39675,846699">大団円</bgm>
+	</bgmlist>
+</thxml>
