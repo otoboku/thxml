@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album codec="PCM_wav" encoding="lossless">東方花映塚　～ Phantasmagoria of Flower View.</album>
+	<albumartist>上海アリス幻樂団</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="th09_01.flac" pos="0,218336,2917344">花映塚　～ Higan Retour</bgm>
+		<bgm file="th09_02.flac" pos="0,377472,6666624">春色小径　～ Colorful Path</bgm>
+		<bgm file="th09_03.flac" pos="0,481024,5459968">オリエンタルダークフライト</bgm>
+		<bgm file="th09_04.flac" pos="0,208272,5533632">フラワリングナイト</bgm>
+		<bgm file="th09_05.flac" pos="0,672256,6342912">東方妖々夢　～ Ancient Temple</bgm>
+		<bgm file="th09_06.flac" pos="0,167936,5166592">狂気の瞳　～ Invisible Full Moon</bgm>
+		<bgm file="th09_07.flac" pos="0,478464,6076928">おてんば恋娘の冒険</bgm>
+		<bgm file="th09_08.flac" pos="0,186560,6038272">幽霊楽団　～ Phantom Ensemble</bgm>
+		<bgm file="th09_09.flac" pos="0,449536,6882304">もう歌しか聞こえない　～ Flower Mix</bgm>
+		<bgm file="th09_10.flac" pos="0,248832,4586632">お宇佐さまの素い幡</bgm>
+		<bgm file="th09_11.flac" pos="0,704320,7178048">風神少女　 (Short Version)</bgm>
+		<bgm file="th09_12.flac" pos="0,272704,4916544">ポイズンボディ　～ Forsaken Doll</bgm>
+		<bgm file="th09_13.flac" pos="0,474560,6581312">今昔幻想郷　～ Flower Land </bgm>
+		<bgm file="th09_14.flac" pos="0,631360,6879872">彼岸帰航　～ Riverside View</bgm>
+		<bgm file="th09_15.flac" pos="0,269056,10955264">六十年目の東方裁判　～ Fate of Sixty Years</bgm>
+		<bgm file="th09_16.flac" pos="0,187968,2916448">花の映る塚</bgm>
+		<bgm file="th09_17.flac" pos="0,865696,824864">此岸の塚</bgm>
+		<bgm file="th09_18.flac" pos="0,99744,2082336">花は幻想のままに </bgm>
+		<bgm file="th09_19.flac" pos="0,222080,4736864">魂の花　～ Another Dream</bgm>
+	</bgmlist>
+</thxml>

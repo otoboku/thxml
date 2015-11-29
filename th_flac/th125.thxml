@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album codec="PCM_wav" encoding="lossless">ダブルスポイラー ～ 東方文花帖</album>
+	<albumartist>上海アリス幻樂団</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="th125_01.flac" pos="0,958720,2908672">ニュースハウンド</bgm>
+		<bgm file="th125_02.flac" pos="0,708144,4215312">あなたの町の怪事件</bgm>
+		<bgm file="th125_03.flac" pos="0,628544,3985536">妖怪モダンコロニー</bgm>
+		<bgm file="th125_04.flac" pos="0,456384,3607456">ネメシスの要塞</bgm>
+		<bgm file="th125_05.flac" pos="0,1415264,6390336">無間の鐘　～ Infinite Nightmare</bgm>
+		<bgm file="th125_06.flac" pos="0,530088,3276000">妖怪の山　～ Mysterious Mountain</bgm>
+		<bgm file="th125_07.flac" pos="0,1294528,969440">曲名不明</bgm>
+	</bgmlist>
+</thxml>

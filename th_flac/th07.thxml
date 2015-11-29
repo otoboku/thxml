@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album codec="PCM_wav" encoding="lossless">東方妖々夢　～ Perfect Cherry Blossom.</album>
+	<albumartist>上海アリス幻樂団</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="th07_01.flac" pos="0,304320,3832072">妖々夢　～ Snow or Cherry Petal</bgm>
+		<bgm file="th07_02.flac" pos="0,714720,3160096">無何有の郷　～ Deep Mountain</bgm>
+		<bgm file="th07_03.flac" pos="0,478120,2593879">クリスタライズシルバー</bgm>
+		<bgm file="th07_04.flac" pos="0,1055510,5104525">遠野幻想物語</bgm>
+		<bgm file="th07_05.flac" pos="0,161674,2319860">ティアオイエツォン(withered leaf)</bgm>
+		<bgm file="th07_06.flac" pos="0,351104,5153536">ブクレシュティの人形師</bgm>
+		<bgm file="th07_07.flac" pos="0,1254912,6666752">人形裁判　～ 人の形弄びし少女</bgm>
+		<bgm file="th07_08.flac" pos="0,358496,10439840">天空の花の都</bgm>
+		<bgm file="th07_09.flac" pos="0,186560,6038272">幽霊楽団　～ Phantom Ensemble</bgm>
+		<bgm file="th07_10.flac" pos="0,431360,6132224">東方妖々夢　～ Ancient Temple</bgm>
+		<bgm file="th07_11.flac" pos="0,296704,4642816">広有射怪鳥事　～ Till When？</bgm>
+		<bgm file="th07_12.flac" pos="0,123392,2411264">アルティメットトゥルース</bgm>
+		<bgm file="th07_13.flac" pos="0,763776,5589376">幽雅に咲かせ、墨染の桜　～ Border of Life</bgm>
+		<bgm file="th07_14.flac" pos="0,2912512,1114688">ボーダーオブライフ</bgm>
+		<bgm file="th07_15.flac" pos="0,254720,6038720">妖々跋扈</bgm>
+		<bgm file="th07_16.flac" pos="0,64448,9358944">少女幻葬　～ Necro-Fantasy</bgm>
+		<bgm file="th07_17.flac" pos="0,254720,6038720">妖々跋扈　～ Who done it!</bgm>
+		<bgm file="th07_18.flac" pos="0,87360,7293632">ネクロファンタジア</bgm>
+		<bgm file="th07_19.flac" pos="0,206912,2646016">春風の夢</bgm>
+		<bgm file="th07_20.flac" pos="0,1311424,2981184">さくらさくら　～ Japanize Dream...</bgm>
+	</bgmlist>
+</thxml>

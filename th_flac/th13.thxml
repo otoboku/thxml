@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album codec="PCM_wav" encoding="lossless">東方神霊廟　～ Ten Desires.</album>
+	<albumartist>上海アリス幻樂団</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="th13_01.flac" pos="0,963424,1739808">欲深き霊魂</bgm>
+		<bgm file="th13_02.flac" pos="0,761002,4032050">死霊の夜桜</bgm>
+		<bgm file="th13_03.flac" pos="0,380501,2016025" samplerate="22050">死霊の夜桜（霊界トランス）</bgm>
+		<bgm file="th13_04.flac" pos="0,179008,3548928">ゴーストリード</bgm>
+		<bgm file="th13_05.flac" pos="0,89504,1774464" samplerate="22050">ゴーストリード（霊界トランス）</bgm>
+		<bgm file="th13_06.flac" pos="0,99680,4617264">妖怪寺へようこそ</bgm>
+		<bgm file="th13_07.flac" pos="0,49840,2308632" samplerate="22050">妖怪寺へようこそ（霊界トランス）</bgm>
+		<bgm file="th13_08.flac" pos="0,85824,3092848">門前の妖怪小娘</bgm>
+		<bgm file="th13_09.flac" pos="0,42912,1546424" samplerate="22050">門前の妖怪小娘（霊界トランス）</bgm>
+		<bgm file="th13_10.flac" pos="0,679624,5466296">素敵な墓場で暮しましょ</bgm>
+		<bgm file="th13_11.flac" pos="0,339812,2733148" samplerate="22050">素敵な墓場で暮しましょ（霊界トランス）</bgm>
+		<bgm file="th13_12.flac" pos="0,176976,3235664">リジッドパラダイス</bgm>
+		<bgm file="th13_13.flac" pos="0,88488,1617832" samplerate="22050">リジッドパラダイス（霊界トランス）</bgm>
+		<bgm file="th13_14.flac" pos="0,401536,6486208">デザイアドライブ</bgm>
+		<bgm file="th13_15.flac" pos="0,200768,3243104" samplerate="22050">デザイアドライブ（霊界トランス）</bgm>
+		<bgm file="th13_16.flac" pos="0,380000,4196736">古きユアンシェン</bgm>
+		<bgm file="th13_17.flac" pos="0,190000,2098368" samplerate="22050">古きユアンシェン（霊界トランス）</bgm>
+		<bgm file="th13_18.flac" pos="0,68876,5085404">夢殿大祀廟</bgm>
+		<bgm file="th13_19.flac" pos="0,34438,2542702" samplerate="22050">夢殿大祀廟（霊界トランス）</bgm>
+		<bgm file="th13_20.flac" pos="0,165376,6531584">大神神話伝</bgm>
+		<bgm file="th13_21.flac" pos="0,82688,3265792" samplerate="22050">大神神話伝（霊界トランス）</bgm>
+		<bgm file="th13_22.flac" pos="0,708496,4252632">小さな欲望の星空</bgm>
+		<bgm file="th13_23.flac" pos="0,354248,2126316" samplerate="22050">小さな欲望の星空（霊界トランス）</bgm>
+		<bgm file="th13_24.flac" pos="0,650550,7490370">聖徳伝説　～ True Administrator</bgm>
+		<bgm file="th13_25.flac" pos="0,64896,3817216">神社の新しい風</bgm>
+		<bgm file="th13_26.flac" pos="0,6042688,587968">デザイアドリーム</bgm>
+		<bgm file="th13_27.flac" pos="0,364320,5640616">妖怪裏参道</bgm>
+		<bgm file="th13_28.flac" pos="0,182160,2820308" samplerate="22050">妖怪裏参道（霊界トランス）</bgm>
+		<bgm file="th13_29.flac" pos="0,599720,5785120">佐渡の二ッ岩</bgm>
+		<bgm file="th13_30.flac" pos="0,299860,2892560" samplerate="22050">佐渡の二ッ岩（霊界トランス）</bgm>
+		<bgm file="th13_31.flac" pos="0,469810,1215486">プレイヤーズスコア</bgm>
+	</bgmlist>
+</thxml>

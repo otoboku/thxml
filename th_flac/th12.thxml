@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album codec="PCM_wav" encoding="lossless">東方星蓮船　～ Undefined Fantastic Object.</album>
+	<albumartist>上海アリス幻樂団</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="th12_01.flac" pos="0,253968,2369520">青空の影</bgm>
+		<bgm file="th12_02.flac" pos="0,605760,3824032">春の湊に</bgm>
+		<bgm file="th12_03.flac" pos="0,712576,3502272">小さな小さな賢将</bgm>
+		<bgm file="th12_04.flac" pos="0,140288,4842112">閉ざせし雲の通い路</bgm>
+		<bgm file="th12_05.flac" pos="0,605504,5490560">万年置き傘にご注意を</bgm>
+		<bgm file="th12_06.flac" pos="0,309440,5579264">スカイルーイン</bgm>
+		<bgm file="th12_07.flac" pos="0,340224,4472704">時代親父とハイカラ少女</bgm>
+		<bgm file="th12_08.flac" pos="0,158720,6177152">幽霊客船の時空を越えた旅</bgm>
+		<bgm file="th12_09.flac" pos="0,380128,5292096">キャプテン・ムラサ</bgm>
+		<bgm file="th12_10.flac" pos="0,815744,6973568">魔界地方都市エソテリア</bgm>
+		<bgm file="th12_11.flac" pos="0,1294528,7955872">虎柄の毘沙門天</bgm>
+		<bgm file="th12_12.flac" pos="0,144480,4354496">法界の火</bgm>
+		<bgm file="th12_13.flac" pos="0,730557,9404737">感情の摩天楼　～ Cosmic Mind</bgm>
+		<bgm file="th12_14.flac" pos="0,322560,7840256">夜空のユーフォーロマンス</bgm>
+		<bgm file="th12_15.flac" pos="0,275712,7922432">平安のエイリアン</bgm>
+		<bgm file="th12_16.flac" pos="0,274700,2117332">妖怪寺</bgm>
+		<bgm file="th12_17.flac" pos="0,234416,4804376">空の帰り道　～ Sky Dream</bgm>
+		<bgm file="th12_18.flac" pos="0,469810,1215486">プレイヤーズスコア</bgm>
+	</bgmlist>
+</thxml>

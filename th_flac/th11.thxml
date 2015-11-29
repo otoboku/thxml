@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album codec="PCM_wav" encoding="lossless">東方地霊殿　～ Subterranean Animism.</album>
+	<albumartist>上海アリス幻樂団</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="th11_01.flac" pos="0,85888,3350496">地霊達の起床</bgm>
+		<bgm file="th11_02.flac" pos="0,103264,4266752">暗闇の風穴</bgm>
+		<bgm file="th11_03.flac" pos="0,203776,2245152">封じられた妖怪　～ Lost Place</bgm>
+		<bgm file="th11_04.flac" pos="0,167552,4751872">渡る者の途絶えた橋</bgm>
+		<bgm file="th11_05.flac" pos="0,147968,4733312">緑眼のジェラシー</bgm>
+		<bgm file="th11_06.flac" pos="0,146592,4986368">旧地獄街道を行く</bgm>
+		<bgm file="th11_07.flac" pos="0,263616,4506944">華のさかづき大江山</bgm>
+		<bgm file="th11_08.flac" pos="0,357760,5821504">ハートフェルトファンシー</bgm>
+		<bgm file="th11_09.flac" pos="0,159616,5350048">少女さとり　～ 3rd eye</bgm>
+		<bgm file="th11_10.flac" pos="0,177002,7788724">廃獄ララバイ</bgm>
+		<bgm file="th11_11.flac" pos="0,135552,4338624">死体旅行　～ Be of good cheer!</bgm>
+		<bgm file="th11_12.flac" pos="0,154112,5000704">業火マントル</bgm>
+		<bgm file="th11_13.flac" pos="0,158272,7326016">霊知の太陽信仰　～ Nuclear Fusion</bgm>
+		<bgm file="th11_14.flac" pos="0,275936,8146240">ラストリモート</bgm>
+		<bgm file="th11_15.flac" pos="0,1027904,5774656">ハルトマンの妖怪少女</bgm>
+		<bgm file="th11_16.flac" pos="0,195456,2997120">地霊達の帰宅</bgm>
+		<bgm file="th11_17.flac" pos="0,1345272,2385144">エネルギー黎明 ～ Future Dream...</bgm>
+		<bgm file="th11_18.flac" pos="0,469810,1215486">プレイヤーズスコア</bgm>
+	</bgmlist>
+</thxml>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album codec="PCM_wav" encoding="lossless">妖精大戦争　～ 東方三月精</album>
+	<albumartist>上海アリス幻樂団</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="th128_01.flac" pos="0,534856,3363936">春の氷精</bgm>
+		<bgm file="th128_02.flac" pos="0,670368,4043872">可愛い大戦争のリフレーン</bgm>
+		<bgm file="th128_03.flac" pos="0,43064,3215472">いたずらに命をかけて</bgm>
+		<bgm file="th128_04.flac" pos="0,576400,3155488">年中夢中の好奇心</bgm>
+		<bgm file="th128_05.flac" pos="0,475296,4901088">真夜中のフェアリーダンス</bgm>
+		<bgm file="th128_06.flac" pos="0,141408,4393536">妖精大戦争　～ Faily Wars</bgm>
+		<bgm file="th128_07.flac" pos="0,460480,2625792">春の氷精　- 静 -</bgm>
+		<bgm file="th128_08.flac" pos="0,288704,6721024">ルーズレイン</bgm>
+		<bgm file="th128_09.flac" pos="0,204992,5577152">メイガスナイト</bgm>
+		<bgm file="th128_10.flac" pos="0,469810,1215486">プレイヤーズスコア</bgm>
+	</bgmlist>
+</thxml>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album codec="PCM_wav" encoding="lossless">東方風神録　～ Mountain of Faith.</album>
+	<albumartist>上海アリス幻樂団</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="th10_01.flac" pos="0,986112,2732672">封印されし神々</bgm>
+		<bgm file="th10_02.flac" pos="0,679292,5321860">人恋し神様　～ Romantic Fall</bgm>
+		<bgm file="th10_03.flac" pos="0,60284,1906820">稲田姫様に叱られるから</bgm>
+		<bgm file="th10_04.flac" pos="0,162684,5190532">厄神様の通り道　～ Dark Road</bgm>
+		<bgm file="th10_05.flac" pos="0,127100,4536580">運命のダークサイド</bgm>
+		<bgm file="th10_06.flac" pos="0,786172,7253636">神々が恋した幻想郷</bgm>
+		<bgm file="th10_07.flac" pos="0,436604,6010820">芥川龍之介の河童　～ Candid Friend</bgm>
+		<bgm file="th10_08.flac" pos="0,426044,8571332">フォールオブフォール　～ 秋めく滝</bgm>
+		<bgm file="th10_09.flac" pos="0,413184,3276160">妖怪の山　～ Mysterious Mountain</bgm>
+		<bgm file="th10_10.flac" pos="0,132796,7937988">少女が見た日本の原風景</bgm>
+		<bgm file="th10_11.flac" pos="0,641280,7216704">信仰は儚き人間の為に</bgm>
+		<bgm file="th10_12.flac" pos="0,549376,2433600">御柱の墓場　～ Grave of Being</bgm>
+		<bgm file="th10_13.flac" pos="0,1270972,5910340">神さびた古戦場　～ Suwa Foughten Field</bgm>
+		<bgm file="th10_14.flac" pos="0,102588,8741412">明日ハレの日、ケの昨日</bgm>
+		<bgm file="th10_15.flac" pos="0,219612,7390132">ネイティブフェイス</bgm>
+		<bgm file="th10_16.flac" pos="0,2000972,1854516">麓の神社</bgm>
+		<bgm file="th10_17.flac" pos="0,2782849,1199080">神は恵みの雨を降らす　～ Sylphid Dream</bgm>
+		<bgm file="th10_18.flac" pos="0,469810,1215486">プレイヤーズスコア</bgm>
+	</bgmlist>
+</thxml>

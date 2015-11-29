@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?><!DOCTYPE thxml "nyfair_thxml.dtd">
+
+<thxml>
+	<album codec="PCM_wav" encoding="lossless">東方紅魔郷　～ the Embodiment of Scarlet Devil.</album>
+	<albumartist>上海アリス幻樂団</albumartist>
+	<path></path>
+	<bgmlist>
+		<bgm file="th06_01.flac" pos="0,264604,2346750">赤より紅い夢</bgm>
+		<bgm file="th06_02.flac" pos="0,915829,2919434">ほおずきみたいに紅い魂</bgm>
+		<bgm file="th06_03.flac" pos="0,126761,2320630">妖魔夜行</bgm>
+		<bgm file="th06_04.flac" pos="0,303911,3555317">ルーネイトエルフ</bgm>
+		<bgm file="th06_05.flac" pos="0,255376,3693641">おてんば恋娘</bgm>
+		<bgm file="th06_06.flac" pos="0,1984114,4182661">上海紅茶館　～ Chinese Tea</bgm>
+		<bgm file="th06_07.flac" pos="0,1038028,3602619">明治十七年の上海アリス</bgm>
+		<bgm file="th06_08.flac" pos="0,182790,4702597">ヴワル魔法図書館</bgm>
+		<bgm file="th06_09.flac" pos="0,1295999,3905375">ラクトガール　～ 少女密室</bgm>
+		<bgm file="th06_10.flac" pos="0,905119,6279367">メイドと血の懐中時計</bgm>
+		<bgm file="th06_11.flac" pos="0,239430,3479837">月時計　～ ルナ・ダイアル</bgm>
+		<bgm file="th06_12.flac" pos="0,165984,2442616">ツェペシュの幼き末裔</bgm>
+		<bgm file="th06_13.flac" pos="0,1464157,4746115">亡き王女の為のセプテット</bgm>
+		<bgm file="th06_14.flac" pos="0,1581206,5179827">魔法少女達の百年祭</bgm>
+		<bgm file="th06_15.flac" pos="0,197116,5379049">U.N.オーエンは彼女なのか？</bgm>
+		<bgm file="th06_16.flac" pos="0,400208,2077514">紅より儚い永遠</bgm>
+		<bgm file="th06_17.flac" pos="0,239496,4430094">紅楼　～ Eastern Dream...</bgm>
+	</bgmlist>
+</thxml>
